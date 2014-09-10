@@ -7,12 +7,14 @@ resources: 8
 
 # Code Challenge - jQuery User Input Calculator
 
+## Description
+
 Students will work in groups to create a calculator that accepts user input using jQuery event listeners and JavaScript functions, if/else or switch statements, and jQuery val methods.
 
 ## Steps
 
 1. Fork this repository.
-2. CLone Your fork.
+2. Clone Your fork.
 3. cd into the folder for this project.
 4. open index.html in the browser and bring up the JavaScript console.
 5. open the project folder in your code editor.
