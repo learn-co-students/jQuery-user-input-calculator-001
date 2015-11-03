@@ -7,7 +7,7 @@ Students will work in groups to create a calculator that accepts user input usin
 ## The calculator should do the following:
   
   1. Be object oriented.
-  1. the calculator should take use jQuery selectors to get the input for 2 separate numbers and 1 operation: '+', '-', '*', '/'.
+  1. the calculator should use jQuery selectors to get the input for 2 separate numbers and 1 operation: '+', '-', '*', '/'.
   2. When the user clicks the equals button, the calculator should update the result `h2` tag with the result. 
     1. If the user leaves a number field blank or inserts some input that is not a number then h2 with id="result" should instead print the error message: "Sorry, one of those is not a valid number!". 
     2. If the operation inserted is not one of the valid accepted operations then the error message should then read "Sorry, not a valid operation!"
